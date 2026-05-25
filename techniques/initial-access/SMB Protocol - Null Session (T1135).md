@@ -55,4 +55,4 @@ smb:\> mget *
 
 ```
 
-Useful commands - see in: [](../(smbclient))
+Useful commands - see in: [smbclient cheat sheet](../(smbclient))
