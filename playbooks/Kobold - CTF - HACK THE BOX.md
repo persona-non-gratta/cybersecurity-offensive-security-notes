@@ -69,7 +69,7 @@ Scanning gives us **4 opened (services) ports** and one interesting detail - **w
 
 Port 80 - **dummy web-page**. 
 Zero interactive, zero backend - just html landing page - nothing interesting. 
-![../Pasted image 20260522080808.png]]
+![](<../assets/Pasted image 20260522080808.png>)
 
 Port 3552 - **Arcane -  Docker Management** 
 login form (dashboard) and link to the project's github page.
